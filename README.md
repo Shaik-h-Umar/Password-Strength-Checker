@@ -26,15 +26,9 @@ This is a simple but powerful password strength checker that helps you create st
 *   CSS
 *   JavaScript
 
-## 🌐 Live Demo
-
-[Link to live demo](placeholder.com)
-
-*(A link to the live demo will be added here)*
-
 ## 👨‍💻 Author
 
-[Your Name](https://your-website.com)
+[Shaikh Umar]
 
 ## 📄 License
 
