@@ -26,12 +26,6 @@ This is a simple but powerful password strength checker that helps you create st
 *   CSS
 *   JavaScript
 
-## 📸 Screenshot
-
-![Password Strength Checker Screenshot](placeholder.png)
-
-*(A screenshot of the application will be added here)*
-
 ## 🌐 Live Demo
 
 [Link to live demo](placeholder.com)
